@@ -1,0 +1,27 @@
+# Secrets
+secrets.yaml
+secrets.yml
+
+# Env files
+.env
+.env.*
+*.env
+
+# Credentials
+*.key
+*.pem
+*.crt
+*.p12
+*.jks
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Build artifacts
+dist/
+build/
+
+test.js
